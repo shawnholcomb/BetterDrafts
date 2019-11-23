@@ -1,0 +1,135 @@
+[
+    {
+      "name": "Tom Brady",
+      "position": "QB",
+      "team": "NE",
+      "bye": "10",
+      "headshot": "public/img/headshot/tombrady.png"
+    },
+    {
+      "name": "Derrick Henry",
+      "position": "RB",
+      "team": "Ten",
+      "bye": "11",
+      "headshot": "public/img/headshot/derrickhenry.png"
+    },
+    {
+      "name": "Devante Parker",
+      "position": "WR",
+      "team": "Mia",
+      "bye": "5",
+      "headshot": "public/img/headshot/devanteparker.png"
+    },
+    {
+        "name": "Lamar Jackson",
+        "position": "QB",
+        "team": "Bal",
+        "bye": "8",
+        "headshot": "public/img/headshot/lamarjackson.png"
+      },
+      {
+        "name": "Ezekiel Elliot",
+        "position": "RB",
+        "team": "Dal",
+        "bye": "8",
+        "headshot": "public/img/headshot/ezekielelliot.png"
+      },
+      {
+        "name": "Kareem Hunt",
+        "position": "RB",
+        "team": "Cle",
+        "bye": "7",
+        "headshot": "public/img/headshot/kareemhunt.png"
+      },
+      {
+        "name": "Chris Godwin",
+        "position": "WR",
+        "team": "TB",
+        "bye": "7",
+        "headshot": "public/img/headshot/chrisgodwin.png"
+      },
+      {
+        "name": "DJ Chark Jr.",
+        "position": "WR",
+        "team": "Jax",
+        "bye": "10",
+        "headshot": "public/img/headshot/djcharkjr.png"
+      },
+      {
+        "name": "Michael Gallup",
+        "position": "WR",
+        "team": "Dal",
+        "bye": "8",
+        "headshot": "public/img/headshot/michaelgallup.png"
+      },
+      {
+        "name": "Noah Fant",
+        "position": "TE",
+        "team": "Den",
+        "bye": "10",
+        "headshot": "public/img/headshot/noahfant.png"
+      },
+      {
+        "name": "Terry McLaurin",
+        "position": "WR",
+        "team": "Wsh",
+        "bye": "10",
+        "headshot": "public/img/headshot/terrymclaurin.png"
+      },
+      {
+        "name": "Bills",
+        "position": "D/ST",
+        "team": "Buf",
+        "bye": "6",
+        "headshot": "public/img/headshot/billsdst.png"
+      },
+      {
+        "name": "David Johnson",
+        "position": "RB",
+        "team": "Ari",
+        "bye": "12",
+        "headshot": "public/img/headshot/davidjohnson.png"
+      },
+      {
+        "name": "Melvin Gordon",
+        "position": "RB",
+        "team": "LAC",
+        "bye": "12",
+        "headshot": "public/img/headshot/melvingordon.png"
+      },
+      {
+        "name": "Austin Ekeler",
+        "position": "RB",
+        "team": "LAC",
+        "bye": "12",
+        "headshot": "public/img/headshot/austinekeler.png"
+      },
+      {
+        "name": "Tony Pollard",
+        "position": "RB",
+        "team": "Dal",
+        "bye": "8",
+        "headshot": "public/img/headshot/tonypollard.png"
+      },
+      {
+        "name": "Eagles",
+        "position": "D/ST",
+        "team": "Phi",
+        "bye": "10",
+        "headshot": "public/img/headshot/eaglesdst.png"
+      },
+      {
+        "name": "Tarik Cohen",
+        "position": "RB",
+        "team": "Chi",
+        "bye": "6",
+        "headshot": "public/img/headshot/tarikcohen.png"
+      },
+      {
+        "name": "Jay Ajayi",
+        "position": "RB",
+        "team": "Phi",
+        "bye": "10",
+        "headshot": "public/img/headshot/jayajayi.png"
+      }
+]
